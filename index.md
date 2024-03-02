@@ -11,7 +11,7 @@ This is Pavlin Edrev's programming portfolio. Here you will find all my programm
 ## Unity 
 
 
-详见：[技术栈详细](site_pages/Unity.md).
+Projects：[See All Projects Here](site_pages/Unity.md).
 ### Project #1 
 |    Tech.     |                            About                             |
 | :----------: | :----------------------------------------------------------: |
