@@ -34,4 +34,4 @@ Simething is here
 ## C++
 
 IconFold
-: Repository: *[IconFold](https://github.com/LiuJiewenTT/IconFold)*。使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 *.ico* 文件。<span class="used_tech">使用到的技术: *batch*。</span>
+: Repository: *[IconFold](https://github.com/LiuJiewenTT/IconFold)*。使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 *.ico* 文件。<span class="circle">使用到的技术: *batch*。</span>
