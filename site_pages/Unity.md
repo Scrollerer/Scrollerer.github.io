@@ -15,5 +15,5 @@ This is Pavlin Edrev's programming portfolio. Here you will find all my programm
 详见：[Go Back to Portfolio](../index.md)
 ---
 <a href="../index.md">
-<img src="../include/backButton.png" alt="BackButton" style="width:42px;height:42px;">
+<img src="../include/backButton.png" alt="BackButton">
 </a>
