@@ -1,20 +1,17 @@
 # Portfolio
-
-This is the personal home page of LiuJiewenTT.
 <img src="include/game.gif" alt="Animated GIF" class="center"> 
 
-这里是刘杰文的个人主页。
-
-## 前言 {#preface}
+## Preface {#preface}
 
 朋友们，很高兴在这里相遇！我是刘杰文，来自中国，目前还是一名学生。我加入 Github 已经至少有6年了，近期开发水平正在快速提高，也开始尝试将更多的想法付诸实践。在这里，在这个自由社区，我希望能与大家共建一个更加友好、美好的的未来。如果你有什么有趣的想法，欢迎来和我分享。
 
 <link rel="stylesheet" href="css/used_tech.css">
 
-## 技术栈 {#technoloy_stack}
+## Unity {#Unity}
+
 
 详见：[技术栈详细](site_pages/技术栈详细.md).
-
+### Project #1 {unity_project1}
 |    Tech.     |                            About                             |
 | :----------: | :----------------------------------------------------------: |
 |    C/C++     | 非常熟悉，有两个商业项目的开发经历。事实上，这是我最早开始接触的语言，也是中学时代参与竞赛(NOIP)并获奖时使用的语言。本人能熟练使用面向对象的开发和面向过程的开发。 |
@@ -38,11 +35,11 @@ This is the personal home page of LiuJiewenTT.
 
 
 
-## 个人成果 {#Work_result}
+## PowerShell {#PowerShell}
 
 以下项目不限状态，可能是已完成或是正处于开发的任意阶段。
 
-### 游戏相关
+### Menu
 
 **Snowbreak_ServerSwitcher**
 : Repository: *[Snowbreak_ServerSwitcher](https://github.com/LiuJiewenTT/Snowbreak_ServerSwitcher)*。用于切换不同渠道的启动器，以连接到不同的《尘白禁区》服务器(纯bat脚本实现)，支持在国服与国际服之间切换。<span class="used_tech">使用到的技术: *batch*。</span>
@@ -65,7 +62,7 @@ L4D2_OfflineAssistant
 MCVINE
 : Repository: *[MCVINE](https://github.com/LiuJiewenTT/MCVINE/)*。曾经的专用工具，供小伙伴更好地游玩网易版《我的世界》（PC、Java Edition）。它最初名为 *[mcmod](https://github.com/LiuJiewenTT/mcmod)*，只能添加自选模组。在进一步发展的过程中，为了避免混淆，改名为此，并逐渐加入了添加任意资源的能力。随着本人离开了网易版《我的世界》，也不再关注后续更新，此项目亦终止发展。<span class="used_tech">使用到的技术: *batch*。</span>
 
-### Windows应用和工具
+## C++
 
 IconFold
 : Repository: *[IconFold](https://github.com/LiuJiewenTT/IconFold)*。使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 *.ico* 文件。<span class="used_tech">使用到的技术: *batch*。</span>
