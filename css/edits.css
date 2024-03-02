@@ -1,0 +1,6 @@
+#banner {display: none;}
+footer p {display: none;}
+
+footer:after{
+    content: 'Created by Pavlin Edrev on GitHub Pages.';
+}
