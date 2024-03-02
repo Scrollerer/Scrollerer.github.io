@@ -1,4 +1,5 @@
 # Portfolio
+This is Pavlin Edrev's programming portfolio. Here you will find all my programming projects.
 <img src="include/game.gif" alt="Animated GIF" class="center"> 
 
 ## Preface 
