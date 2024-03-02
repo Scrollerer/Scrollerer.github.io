@@ -10,3 +10,18 @@ footer:after{
   margin-right: auto;
   width: 50%;
 }
+
+.circle {
+	border: 1px solid transparent;
+	border-radius: 2em;
+	border-color: darkblue;
+	word-wrap: break-word;
+	box-sizing: border-box;
+	vertical-align: middle;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-right: 10px;
+	padding-left: 10px;
+	display: inline-block;
+	transition: 80ms cubic-bezier(0.33, 1, 0.68, 1);
+}
