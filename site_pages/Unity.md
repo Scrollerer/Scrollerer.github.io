@@ -11,4 +11,4 @@ This is Pavlin Edrev's programming portfolio. Here you will find all my programm
 ## Unity 
 
 Go Back to Portfolio:
-详见：[技术栈详细](site_pages/index.md)
+详见：[技术栈详细](index.md)
