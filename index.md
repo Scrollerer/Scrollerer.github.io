@@ -1,6 +1,7 @@
 # Home
 
 This is the personal home page of LiuJiewenTT.
+<img src="include/game.gif" alt="Animated GIF" class="center"> 
 
 这里是刘杰文的个人主页。
 
