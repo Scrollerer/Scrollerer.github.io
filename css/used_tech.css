@@ -4,3 +4,9 @@ footer p {display: none;}
 footer:after{
     content: 'Created by Pavlin Edrev on GitHub Pages.';
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
