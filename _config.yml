@@ -1,1 +1,10 @@
 remote_theme: pages-themes/leap-day@v0.2.0
+title: Space of PE
+description: It's my personal homepage. Here you can find all my programming projects.
+defaults:
+  -
+    values:
+      author: "Pavlin Edrev (Scrollerer)"
+
+plugins:
+- jekyll-remote-theme
