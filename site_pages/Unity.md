@@ -16,5 +16,5 @@ This is Pavlin Edrev's programming portfolio. Here you will find all my programm
 
 ---
 <a href="https://scrollerer.github.io/">
-<img src="../include/backbutton.png" alt="Back Button" class="center" style="width:100px;height:30px;">
+<img src="../include/backbutton.png" alt="Back Button" class="center" style="width:200px;height:60px;">
 </a>
