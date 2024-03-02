@@ -13,10 +13,4 @@ This is Pavlin Edrev's programming portfolio. Here you will find all my programm
 
 ---
 [Go Back to Portfolio](../index.md)
-
 ---
-<a href="https://scrollerer.github.io/">
-
-  
-<img src="../include/backbutton.png" alt="Back Button" class="center" style="width:50%;height:50%;">
-</a>
