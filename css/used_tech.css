@@ -1,4 +1,5 @@
 #banner {display: none;}
+h1 {text-align:center};
 footer p {display: none;}
 
 footer:after{
