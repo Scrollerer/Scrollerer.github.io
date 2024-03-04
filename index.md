@@ -19,7 +19,7 @@ This is an overview of most of my programming projects since 2015. More projects
 - Survival Menu <span class="circle">[See Project](site_pages/Unity.md)</span>
 > Another menu?
 
-- iOS Jumper <span class="circle">TBA</span>
+- iOS Jumper (Coming soon...)
 > Thy this perhaps?
 
 - Survival game (Coming soon...)
@@ -28,6 +28,8 @@ This is an overview of most of my programming projects since 2015. More projects
 ---
 
 ## PowerShell 
+
+**Projects Overview:**
 
 - Menu (Coming soon...)
 > Something is here
@@ -39,6 +41,8 @@ This is an overview of most of my programming projects since 2015. More projects
 
 ## C++ + CMD
 
+**Projects Overview:**
+
 - Survival game
 > It is about surviving.
 
@@ -46,12 +50,16 @@ This is an overview of most of my programming projects since 2015. More projects
 
 ## Arduino (C++)
 
+**Projects Overview:**
+
 - Girlfriend Surpriser
 > Made this one to surprise my girlfriend.
 
 ---
 
 ## Other
+
+**Projects Overview:**
 
 - Custom shortcuts for work (AutoHotkey)
 > I scripted a few custom shortcuts to make my work as an IT Supporter at LEGO quicker and more efficient.
