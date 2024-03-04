@@ -34,15 +34,24 @@ This is an overview of most of my programming projects since 2015. More projects
 
 - Level (Coming soon...)
 > Another menu
+
 ---
+
 ## C++ + CMD
+
 - Survival game
 > It is about surviving.
 
+---
+
 ## Arduino (C++)
+
 - Girlfriend Surpriser
 > Made this one to surprise my girlfriend.
 
+---
+
 ## Other
+
 - Custom shortcuts for work (AutoHotkey)
 > I scripted a few custom shortcuts to make my work as an IT Supporter at LEGO quicker and more efficient.
