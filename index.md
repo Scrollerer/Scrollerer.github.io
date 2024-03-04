@@ -1,4 +1,7 @@
 # Pavlin Edrev's Portfolio
+
+---
+
 <img src="include/game_loading.gif" alt="Animated GIF loading game" class="center"> 
 <link rel="stylesheet" href="css/used_tech.css">
 
@@ -16,26 +19,30 @@ This is an overview of most of my programming projects since 2015. More projects
 - Survival Menu <span class="circle">[See Project](site_pages/Unity.md)</span>
 > Another menu?
 
-- iOS Jumper <span class="circle">Coming Soon...</span>
+- iOS Jumper <span class="circle">TBA</span>
 > Thy this perhaps?
 
-- Survival game <span class="circle">Coming Soon...</span>
+- Survival game (Coming soon...)
 > A game about surviving in a zombie apocalypse.
-
-
 
 ---
 
 ## PowerShell 
 
-- Menu
-Something is here
-- Level 2
+- Menu (Coming soon...)
+> Something is here
 
-  
-
+- Level (Coming soon...)
+> Another menu
 ---
 ## C++ + CMD
+- Survival game
+> It is about surviving.
 
 ## Arduino (C++)
+- Girlfriend Surpriser
+> Made this one to surprise my girlfriend.
 
+## Other
+- Custom shortcuts for work (AutoHotkey)
+> I scripted a few custom shortcuts to make my work as an IT Supporter at LEGO quicker and more efficient.
