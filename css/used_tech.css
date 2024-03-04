@@ -1,5 +1,5 @@
 #banner {display: none;}
-h1 {text-align:center};
+h1 {text-align:center;}
 footer p {display: none;}
 
 footer:after{
@@ -9,7 +9,7 @@ footer:after{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  width: 90%;
 }
 
 .circle {
