@@ -1,43 +1,41 @@
-# Portfolio
-This is Pavlin Edrev's programming portfolio. Here you will find all my programming projects.
+# Pavlin Edrev's Portfolio
+This is my personal programming portfolio. You can find all my projects since 2015 in the overview below.
 <img src="include/game.gif" alt="Animated GIF" class="center"> 
 
 ---
 
 ## Description 
-All my projects since 2015 until now are uploaded and documented.
+This is an overview of most of my programming projects since 2015. More projects will be uploaded soon.
 
 <link rel="stylesheet" href="css/used_tech.css">
 
 ---
 
-## Unity
+## Unity (C#)
 
 **Projects Overview:**
 
-- Survival Menu
-  - Another menu?
+- Survival Menu <span class="circle">[See Project Here](site_pages/Unity.md)</span>
+> Another menu?
 
-- iOS Jumper
+- iOS Jumper <span class="circle">Coming Soon...</span>
 > Thy this perhaps?
 
-- Survival game
-```
-A game about surviving in a zombie apocalypse.
-```
+- Survival game <span class="circle">Coming Soon...</span>
+> A game about surviving in a zombie apocalypse.
 
-<span class="circle">[See All Unity Projects Here](site_pages/Unity.md)</span>
+
 
 ---
 
 ## PowerShell 
 
 - Menu
-Simething is here
+Something is here
 - Level 2
 
   
 
 ---
-## C++ ASCI Command Prompt (CMD)
+## C++ + CMD
 
