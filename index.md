@@ -52,8 +52,11 @@ This is an overview of most of my programming projects since 2015. More projects
 
 **Projects Overview:**
 
-- Girlfriend Surpriser
+- Girlfriend Surpriser (Coming soon...)
 > Made this one to surprise my girlfriend.
+
+- Arpeggio piano (Coming soon...)
+> A custom playable arpeggio piano.
 
 ---
 
@@ -63,3 +66,8 @@ This is an overview of most of my programming projects since 2015. More projects
 
 - Custom shortcuts for work (AutoHotkey)
 > I scripted a few custom shortcuts to make my work as an IT Supporter at LEGO quicker and more efficient.
+
+- Habit Tracker (Google Sheets)
+>
+
+- 
