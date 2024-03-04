@@ -1,12 +1,11 @@
 # Pavlin Edrev's Portfolio
 <img src="include/game_loading.gif" alt="Animated GIF loading game" class="center"> 
+<link rel="stylesheet" href="css/used_tech.css">
 
 ---
 
 ## Description 
 This is an overview of most of my programming projects since 2015. More projects will be uploaded soon.
-
-
 
 ---
 
