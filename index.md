@@ -1,13 +1,12 @@
 # Pavlin Edrev's Portfolio
-This is my personal programming portfolio. You can find all my projects since 2015 in the overview below.
-<img src="include/game.gif" alt="Animated GIF" class="center"> 
+<img src="include/game_loading.gif" alt="Animated GIF loading game" class="center"> 
 
 ---
 
 ## Description 
 This is an overview of most of my programming projects since 2015. More projects will be uploaded soon.
 
-<link rel="stylesheet" href="css/used_tech.css">
+
 
 ---
 
@@ -15,7 +14,7 @@ This is an overview of most of my programming projects since 2015. More projects
 
 **Projects Overview:**
 
-- Survival Menu <span class="circle">[See Project Here](site_pages/Unity.md)</span>
+- Survival Menu <span class="circle">[See Project](site_pages/Unity.md)</span>
 > Another menu?
 
 - iOS Jumper <span class="circle">Coming Soon...</span>
@@ -38,4 +37,6 @@ Something is here
 
 ---
 ## C++ + CMD
+
+##Arduino (C++)
 
