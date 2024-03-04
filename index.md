@@ -2,6 +2,11 @@
 
 ---
 
+ _   _  ___ _   ___ __  __ __ ___ _ 
+| | | || __| | / _//__\|  V  | __/ \
+| 'V' || _|| || \_| \/ | \_/ | _|\_/
+!_/ \_!|___|___\__/\__/|_| |_|___(_)
+
 <img src="include/game_loading.gif" alt="Animated GIF loading game" class="center"> 
 <link rel="stylesheet" href="css/used_tech.css">
 
@@ -70,4 +75,6 @@ This is an overview of most of my programming projects since 2015. More projects
 - Habit Tracker (Google Sheets)
 >
 
-- 
+
+
+01001000 01100101 01101100 01101100 01101111 00100000 01100110 01100101 01101100 01101100 01101111 01110111 00100000 01001001 01010100 00100000 01110000 01100101 01110010 01110011 01101111 01101110 00100001 00100000 00111010 00101001
