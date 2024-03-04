@@ -9,6 +9,7 @@
 
 ## Description 
 This is an overview of most of my programming projects since 2015. More projects will be uploaded soon.
+Programming is just one of my many hobbies. I have created every project purely for fun and learning purposes only.
 
 ---
 
@@ -22,8 +23,8 @@ This is an overview of most of my programming projects since 2015. More projects
 - iOS Jumper (Coming soon...)
 > Thy this perhaps?
 
-- Survival game (Coming soon...)
-> A game about surviving in a zombie apocalypse.
+- ZigZag
+> Challenge yourself.
 
 ---
 
@@ -31,11 +32,17 @@ This is an overview of most of my programming projects since 2015. More projects
 
 **Projects Overview:**
 
-- Menu (Coming soon...)
-> Something is here
+- Handy Menu (Coming soon...)
+> A menu with useful tools to use as an IT Supporter.
 
-- Level (Coming soon...)
-> Another menu
+- Handy Menu v2
+> A menu with hotfixes and other tools to use as an IT Supporter.
+
+- Slot machine
+> Spin the slot machine and see if you win!
+
+- Free From School Timer (Coming soon...)
+> A simple clock that tells you how much time you have until school finishes.
 
 ---
 
@@ -44,7 +51,7 @@ This is an overview of most of my programming projects since 2015. More projects
 **Projects Overview:**
 
 - Survival game
-> It is about surviving.
+> A survival game where you need to survive as long as you can by taking life-depending decisions.
 
 ---
 
@@ -52,11 +59,11 @@ This is an overview of most of my programming projects since 2015. More projects
 
 **Projects Overview:**
 
-- Girlfriend Surpriser (Coming soon...)
-> Made this one to surprise my girlfriend.
+- Reveal a Secret Message (Coming soon...)
+> Press a button and reveal the Secret message - created this one to surprise my girlfriend for Valentine's Day.
 
 - Arpeggio piano (Coming soon...)
-> A custom playable arpeggio piano.
+> Become a professional piano player... sort of... not really.
 
 ---
 
@@ -67,8 +74,11 @@ This is an overview of most of my programming projects since 2015. More projects
 - Custom shortcuts for work (AutoHotkey)
 > I scripted a few custom shortcuts to make my work as an IT Supporter at LEGO quicker and more efficient.
 
-- Habit Tracker (Google Sheets)
->
+- Life statistics (Google Sheets)
+> Make an overview of the satisfaction in every area of your life and compare it to the previous month.
+
+- Monthly Reading Tracker (Google Sheets)
+> Track how much time you've read a book this month.
 
 
 
