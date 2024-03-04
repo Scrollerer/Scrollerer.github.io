@@ -1,10 +1,6 @@
 # Pavlin Edrev's Portfolio
 
 ---
-> _   _  ___ _   ___ __  __ __ ___ _ 
-> | | | || __| | / _//__\|  V  | __/ \
-> | 'V' || _|| || \_| \/ | \_/ | _|\_/
-> !_/ \_!|___|___\__/\__/|_| |_|___(_)
 
 <img src="include/game_loading.gif" alt="Animated GIF loading game" class="center"> 
 <link rel="stylesheet" href="css/used_tech.css">
