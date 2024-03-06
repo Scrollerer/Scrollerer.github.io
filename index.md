@@ -2,7 +2,7 @@
 
 ---
 
-<img src="include/game_loading.gif" alt="Animated GIF loading game" class="center" width="90%"</img> 
+<img src="include/game_loading.gif" alt="Animated GIF loading game" class="center" width="90%"> 
 <link rel="stylesheet" href="css/used_tech.css">
 
 ---
@@ -18,25 +18,26 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- Arena Shape Shooter (Coming soon...)
+- Arena Shape Shooter (Uploading soon...)
 > Shoot down waves of enemies in an arena.
 
 
-- Balance (Coming soon...)
+- Balance (Uploading soon...)
 > Balance a ball through challenging levels and obstacles.
 
 
 
-- ZigZag (mobile) (Coming soon...)
+- ZigZag (mobile) (Uploading soon...)
 > Challenge yourself by zig-zagging and avoid falling off the platform.
 
 
-- RPG Idle Collector (mobile) (Coming soon...)
+- RPG Idle Collector (mobile) (Uploading soon...)
 > Endlessly upgrade your collector and see it transform.
 
 
-- Color Switch Dash
-> <img src="include/SwitchDashGif.gif" alt="Animated GIF unity game" width="30%"</img> 
+- **Color Switch Dash** (Uploading soon...)
+> <img src="include/SwitchDashGif.gif" alt="Animated GIF unity game" width="30%"> 
+>
 > **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles.
 
 
@@ -48,16 +49,16 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- Handy Menu (Coming soon...)
+- Handy Menu (Uploading soon...)
 > A menu with useful tools to use as an IT Supporter.
 
-- Handy Menu v2 (Coming soon...)
+- Handy Menu v2 (Uploading soon...)
 > A menu with hotfixes and other tools to use as an IT Supporter.
 
-- Slot machine (Coming soon...)
+- Slot machine (Uploading soon...)
 > Spin the slot machine and see if you win!
 
-- Free From School Timer (Coming soon...)
+- Free From School Timer (Uploading soon...)
 > A simple clock that tells you how much time you have until school finishes.
 
 ---
@@ -66,7 +67,7 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- Survival game (Coming soon...)
+- Survival game (Uploading soon...)
 > A survival game where you need to survive as long as you can by taking life-depending decisions.
 
 ---
@@ -75,10 +76,10 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- Reveal a Secret Message (Coming soon...)
+- Reveal a Secret Message (Uploading soon...)
 > Press a button and reveal the Secret message - created this one to surprise my girlfriend for Valentine's Day.
 
-- Arpeggio piano (Coming soon...)
+- Arpeggio piano (Uploading soon...)
 > Become a professional piano player... sort of... not really.
 
 ---
@@ -87,13 +88,13 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- Custom shortcuts for work (AutoHotkey) (Coming soon...)
+- Custom shortcuts for work (AutoHotkey) (Uploading soon...)
 > I scripted a few custom shortcuts to make my work as an IT Supporter at LEGO quicker and more efficient.
 
-- Life statistics (Google Sheets) (Coming soon...)
+- Life statistics (Google Sheets) (Uploading soon...)
 > Make an overview of the satisfaction in every area of your life and compare it to the previous month.
 
-- Monthly Reading Tracker (Google Sheets) (Coming soon...)
+- Monthly Reading Tracker (Google Sheets) (Uploading soon...)
 > Track how much time you've read a book this month.
 
 
