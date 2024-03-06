@@ -37,6 +37,7 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 - Color Switch Dash
 > See how long you can go by jumping over, going under, switching colors, and going through obstacles.
+
 <img src="include/SwitchDashGif.gif" alt="Animated GIF unity game" class="center" width="30%"> 
 
 
