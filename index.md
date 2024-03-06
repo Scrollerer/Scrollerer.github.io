@@ -19,7 +19,7 @@ Programming is just one of my many hobbies. I have created every project purely 
 **Projects Overview:**
 
 - **Color Switch Dash** (mobile)(Uploading soon...)
->  <img src="include/SwitchDashGif.gif" alt="Animated GIF unity game" width="30%"> 
+>  <img src="include/SwitchColorGif.gif" alt="Animated GIF unity game" width="30%"> 
 > 
 > **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles.
 
