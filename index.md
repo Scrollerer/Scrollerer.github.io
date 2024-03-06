@@ -33,19 +33,18 @@ Programming is just one of my many hobbies. I have created every project purely 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
 
 - Arena Shape Shooter (Documentation will be uploaded soon...)
-> <img src="include/ShooterGif.gif" alt="Animated GIF Shooter Unity" width="30%"> 
+> <img src="include/ShooterGif.gif" alt="Animated GIF Shooter Unity" width="90"> 
 > 
 > Shoot down waves of enemies in an arena.
 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
 
 - Balance (Documentation will be uploaded soon...)
-> <img src="include/BallGif.gif" alt="Animated GIF Ball Unity" width="30%"> 
+> <img src="include/BallGif.gif" alt="Animated GIF Ball Unity" width="90%"> 
 > 
 > Balance a ball through challenging levels and obstacles.
 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
-
 
 - RPG Idle Collector (Documentation will be uploaded soon...)
 > <img src="include/RPGGif.gif" alt="Animated GIF RPG Unity" width="30%"> 
