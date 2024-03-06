@@ -23,7 +23,7 @@ Programming is just one of my many hobbies. I have created every project purely 
 - iOS Jumper (Coming soon...)
 > Thy this perhaps?
 
-- ZigZag
+- ZigZag (Coming soon...)
 > Challenge yourself.
 
 ---
@@ -35,10 +35,10 @@ Programming is just one of my many hobbies. I have created every project purely 
 - Handy Menu (Coming soon...)
 > A menu with useful tools to use as an IT Supporter.
 
-- Handy Menu v2
+- Handy Menu v2 (Coming soon...)
 > A menu with hotfixes and other tools to use as an IT Supporter.
 
-- Slot machine
+- Slot machine (Coming soon...)
 > Spin the slot machine and see if you win!
 
 - Free From School Timer (Coming soon...)
@@ -50,7 +50,7 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- Survival game
+- Survival game (Coming soon...)
 > A survival game where you need to survive as long as you can by taking life-depending decisions.
 
 ---
@@ -71,13 +71,13 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- Custom shortcuts for work (AutoHotkey)
+- Custom shortcuts for work (AutoHotkey) (Coming soon...)
 > I scripted a few custom shortcuts to make my work as an IT Supporter at LEGO quicker and more efficient.
 
-- Life statistics (Google Sheets)
+- Life statistics (Google Sheets) (Coming soon...)
 > Make an overview of the satisfaction in every area of your life and compare it to the previous month.
 
-- Monthly Reading Tracker (Google Sheets)
+- Monthly Reading Tracker (Google Sheets) (Coming soon...)
 > Track how much time you've read a book this month.
 
 
