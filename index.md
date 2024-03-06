@@ -18,33 +18,39 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- **Color Switch Dash** (mobile)(Uploading soon...)
->  <img src="include/SwitchColorGif.gif" alt="Animated GIF unity game" width="30%"> 
+- **Color Switch Dash** (Documentation will be uploaded soon...)
+>  <img src="include/SwitchColorGif.gif" alt="Animated GIF ColorSwitch Unity" width="30%"> 
 > 
 > **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles.
 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
 
-- ZigZag (mobile) (Uploading soon...)
-> <img src="include/ZigZagGif.gif" alt="Animated GIF unity game 2" width="30%"> 
+- ZigZag (Documentation will be uploaded soon...)
+> <img src="include/ZigZagGif.gif" alt="Animated GIF ZigZag Unity" width="30%"> 
 >
 > **Description:** Challenge yourself by zig-zagging and avoid falling off the platform.
 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
 
-- Arena Shape Shooter (Uploading soon...)
+- Arena Shape Shooter (Documentation will be uploaded soon...)
+> <img src="include/ShooterGif.gif" alt="Animated GIF Shooter Unity" width="30%"> 
+> 
 > Shoot down waves of enemies in an arena.
 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
 
-- Balance (Uploading soon...)
+- Balance (Documentation will be uploaded soon...)
+> <img src="include/BallGif.gif" alt="Animated GIF Ball Unity" width="30%"> 
+> 
 > Balance a ball through challenging levels and obstacles.
 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
 
 
-- RPG Idle Collector (mobile) (Uploading soon...)
-> Endlessly upgrade your collector and see it transform into the ultimate collector.
+- RPG Idle Collector (Documentation will be uploaded soon...)
+> <img src="include/RPGGif.gif" alt="Animated GIF RPG Unity" width="30%"> 
+> 
+> Upgrade your collector and see how fast you can make it.
 
 ---
 
