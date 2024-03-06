@@ -33,15 +33,11 @@ Programming is just one of my many hobbies. I have created every project purely 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
 
 - Arena Shape Shooter (Uploading soon...)
-> <img src="include/SwitchDashGsif.gif" alt="Animated GIF unity game" width="30%"> 
-> 
 > Shoot down waves of enemies in an arena.
 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
 
 - Balance (Uploading soon...)
-> <img src="include/SwitchDazshGif.gif" alt="Animated GIF unity game" width="30%"> 
-> 
 > Balance a ball through challenging levels and obstacles.
 
 <div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
