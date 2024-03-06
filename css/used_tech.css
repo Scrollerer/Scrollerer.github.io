@@ -1,10 +1,12 @@
 #banner {display: none;}
-header{background: url(../include/matix.png);}
+header{background: url(../include/matix.png);
+      background-color:#0000}
 h1 {text-align:center;}
 footer p {display: none;}
-nav {background: #0000;}
+nav {background-color: #0000;}
 body {
-  background: url(../include/matix.png) #0000;
+  background: url(../include/matix.png);
+	background-color:#0000
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
