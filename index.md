@@ -23,21 +23,21 @@ Programming is just one of my many hobbies. I have created every project purely 
 > 
 > **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles.
 
-<div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
+---
 
 - ZigZag (Documentation will be uploaded soon...)
 > <img src="include/ZigZagGif.gif" alt="Animated GIF ZigZag Unity" width="30%"> 
 >
 > **Description:** Challenge yourself by zig-zagging and avoid falling off the platform.
 
-<div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
+---
 
 - Arena Shape Shooter (Documentation will be uploaded soon...)
 > <img src="include/ShooterGif.gif" alt="Animated GIF Shooter Unity" width="90%"> 
 > 
 > Shoot down waves of enemies in an arena.
 
-<div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
+---
 
 - Balance (Documentation will be uploaded soon...)
 > <img src="include/BallGif.gif" alt="Animated GIF Ball Unity" width="90%"> 
