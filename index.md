@@ -30,13 +30,15 @@ Programming is just one of my many hobbies. I have created every project purely 
 >
 > **Description:** Challenge yourself by zig-zagging and avoid falling off the platform.
 
-**<div style="text-align: center;"> ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶ </div>**
+<div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
 
 **⫘⫘⫘⫘⫘⫘⫘⫘⫘**
 
 **============**
 
 **▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄**
+
+**꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷**
 
 - Arena Shape Shooter (Uploading soon...)
 > Shoot down waves of enemies in an arena.
