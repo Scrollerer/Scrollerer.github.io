@@ -17,14 +17,28 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- Survival Menu (Coming soon...)
-> Another menu?
+- Arena Shape Shooter (Coming soon...)
+> Shoot down waves of enemies in an arena.
 
-- iOS Jumper (Coming soon...)
-> Thy this perhaps?
 
-- ZigZag (Coming soon...)
-> Challenge yourself.
+- Balance (Coming soon...)
+> Balance a ball through challenging levels and obstacles.
+
+
+
+- ZigZag (mobile) (Coming soon...)
+> Challenge yourself by zig-zagging and avoid falling off the platform.
+
+
+- RPG Idle Collector (mobile) (Coming soon...)
+> Endlessly upgrade your collector and see it transform.
+
+
+- Color Switch Dash
+> See how long you can go by jumping over, going under, switching colors, and going through obstacles.
+
+
+
 
 ---
 
