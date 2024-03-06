@@ -8,7 +8,8 @@
 ---
 
 ## Description 
-This is an overview of most of my programming projects since 2015. More projects will be uploaded soon.
+This is an overview of most of my programming projects since 2015. 
+Documenting each project takes a lot of time, but all will be uploaded soon.
 Programming is just one of my many hobbies. I have created every project purely for fun and learning purposes only.
 
 ---
