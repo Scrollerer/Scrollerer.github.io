@@ -2,7 +2,7 @@
 header{background: url(../include/matix.png);}
 h1 {text-align:center;}
 footer p {display: none;}
-
+nav {background: #0000;}
 body {
   background: url(../include/matix.png) #0000;
   background-repeat: no-repeat;
