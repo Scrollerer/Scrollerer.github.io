@@ -18,27 +18,25 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
+- **Color Switch Dash** (Uploading soon...)
+>  <img src="include/SwitchDashGif.gif" alt="Animated GIF unity game" width="30%"> 
+> 
+> **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles.
+
+- ZigZag (mobile) (Uploading soon...)
+> <img src="include/ZigZagGif.gif" alt="Animated GIF unity game 2" width="30%"> 
+>
+> **Description:** Challenge yourself by zig-zagging and avoid falling off the platform.
+
 - Arena Shape Shooter (Uploading soon...)
 > Shoot down waves of enemies in an arena.
-
 
 - Balance (Uploading soon...)
 > Balance a ball through challenging levels and obstacles.
 
-
-
-- ZigZag (mobile) (Uploading soon...)
-> Challenge yourself by zig-zagging and avoid falling off the platform.
-
-
 - RPG Idle Collector (mobile) (Uploading soon...)
-> Endlessly upgrade your collector and see it transform.
+> Endlessly upgrade your collector and see it transform into the ultimate collector.
 
-
-- **Color Switch Dash** (Uploading soon...)
-> <img src="include/SwitchDashGif.gif" alt="Animated GIF unity game" width="30%">
-> 
-> **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles.
 
 
 
