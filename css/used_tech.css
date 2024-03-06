@@ -2,14 +2,13 @@
 header{background:#000000}
 h1 {text-align:center;}
 footer p {display: none;}
-<style>
+
 body {
   background-image: url('include/matrix.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-</style>
 footer:after{
     content: 'Created by Pavlin Edrev on GitHub Pages.';
 }
