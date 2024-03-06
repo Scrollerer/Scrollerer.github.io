@@ -12,21 +12,25 @@ This is an overview of most of my programming projects since 2015.
 Documenting each project takes a lot of time, but all will be uploaded soon.
 Programming is just one of my many hobbies. I have created every project purely for fun and learning purposes only.
 
----
+
 
 ## Unity (C#)
 
 **Projects Overview:**
 
-- **Color Switch Dash** (Uploading soon...)
+- **Color Switch Dash** (mobile)(Uploading soon...)
 >  <img src="include/SwitchDashGif.gif" alt="Animated GIF unity game" width="30%"> 
 > 
 > **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles.
+
+꒷꒦︶︶︶︶︶︶︶︶︶︶꒷꒦︶︶︶︶︶︶︶︶︶︶꒦꒷
 
 - ZigZag (mobile) (Uploading soon...)
 > <img src="include/ZigZagGif.gif" alt="Animated GIF unity game 2" width="30%"> 
 >
 > **Description:** Challenge yourself by zig-zagging and avoid falling off the platform.
+
+<div style="text-align: center;"> ꒷꒦︶︶︶︶︶︶︶︶︶︶꒷꒦︶︶︶︶︶︶︶︶︶︶꒦꒷ </div>
 
 - Arena Shape Shooter (Uploading soon...)
 > Shoot down waves of enemies in an arena.
