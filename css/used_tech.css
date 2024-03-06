@@ -1,4 +1,6 @@
 #banner {display: none;}
+header{background:#000000}
+body{background: url(../include/matrix.png)}
 h1 {text-align:center;}
 footer p {display: none;}
 
