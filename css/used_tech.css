@@ -4,7 +4,7 @@ h1 {text-align:center;}
 footer p {display: none;}
 
 body {
-  background: url('include/matrix.png');
+  background: url('../include/matrix.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
