@@ -3,7 +3,8 @@ header{background: url(../include/matix.png);
       background-color:#000}
 h1 {text-align:center;}
 footer p {display: none;}
-nav {background-color: #000;}
+nav {background-color: rgba(0, 0, 0, 0.5);
+        padding: 20px;}
 body {
   background: url(../include/matix.png);
   background-color:#000;
