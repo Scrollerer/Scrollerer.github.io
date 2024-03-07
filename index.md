@@ -12,7 +12,7 @@ This is an overview of most of my programming projects since 2015.
 Documenting each project takes a lot of time, but all will be uploaded soon.
 Programming is just one of my many hobbies. I have created every project purely for fun and learning purposes only.
 
-
+---
 
 ## Unity (C#)
 
@@ -22,23 +22,29 @@ Programming is just one of my many hobbies. I have created every project purely 
 >  <img src="include/SwitchColorGif.gif" alt="Animated GIF ColorSwitch Unity" width="30%"> 
 > 
 > **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles.
+<pre>
 
----
 
+  
+</pre>
 - ZigZag (Documentation will be uploaded soon...)
 > <img src="include/ZigZagGif.gif" alt="Animated GIF ZigZag Unity" width="30%"> 
 >
 > **Description:** Challenge yourself by zig-zagging and avoid falling off the platform.
+<pre>
 
----
 
+  
+</pre>
 - Arena Shape Shooter (Documentation will be uploaded soon...)
 > <img src="include/ShooterGif.gif" alt="Animated GIF Shooter Unity" width="90%"> 
 > 
 > Shoot down waves of enemies in an arena.
+<pre>
 
----
 
+  
+</pre>
 - Balance (Documentation will be uploaded soon...)
 > <img src="include/BallGif.gif" alt="Animated GIF Ball Unity" width="90%"> 
 > 
