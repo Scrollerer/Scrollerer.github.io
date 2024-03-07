@@ -41,7 +41,12 @@ Programming is just one of my many hobbies. I have created every project purely 
 > 
 > Balance a ball through challenging levels and obstacles.
 
-<div style="text-align: center;"> <b>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶</b> </div>
+
+- Immersive Game Menu (Documentation will be uploaded soon...)
+> <img src="include/SurviveMenuGif.gif" alt="Animated GIF Survive Unity" width="90%"> 
+> 
+> Inspired by my passion for survival games and my favourite game Outer Wilds, I created a menu that uses the base game's environment for more immersiveness.
+
 
 - RPG Idle Collector (Documentation will be uploaded soon...)
 > <img src="include/RPGGif.gif" alt="Animated GIF RPG Unity" width="30%"> 
