@@ -60,17 +60,17 @@ Programming is just one of my many hobbies. I have created every project purely 
 **Projects Overview:**
 
 - Slot machine (Uploading soon...)
-> <img src="include/SlotMachineGif.gif" alt="Animated GIF SlotMachine Unity" width="90%"> 
+> <img src="include/SlotMachineGif.gif" alt="Animated GIF SlotMachine Unity" width="70%"> 
 > 
 > Just spin and see if you win!
 
 - Digital Free From School Timer (Uploading soon...)
-> <img src="include/DigitalClockGif.gif" alt="Animated GIF DigitalClock Unity" width="90%"> 
+> <img src="include/DigitalGif.gif" alt="Animated GIF DigitalClock Unity" width="90%"> 
 > 
 > A simple digital timer that tells you how much time you have until school finishes or your next break.
 
 - Handy Menu (Uploading soon...)
-> <img src="include/MenuGif.gif" alt="Animated GIF Menu Unity" width="90%"> 
+> <img src="include/MenuGif.gif" alt="Animated GIF Menu Unity" height="90%"> 
 > 
 > A menu with useful tools to use as an IT Supporter.
 
