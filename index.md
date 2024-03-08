@@ -8,7 +8,7 @@
 ---
 
 ## Description 
-This is an overview of most of my programming projects since 2015. 
+This is an overview of some of my programming projects since 2015. 
 Documenting each project takes a lot of time, but all will be uploaded soon.
 Programming is just one of my many hobbies. I have created every project purely for fun and learning purposes only.
 
@@ -97,9 +97,13 @@ Programming is just one of my many hobbies. I have created every project purely 
 **Projects Overview:**
 
 - Reveal a Secret Message (Documentation page will be added soon...)
-> Press a button and reveal the Secret message - created this one to surprise my girlfriend for Valentine's Day.
+> <img src="include/SecretGif.gif" alt="Animated GIF Life Stats" width="90%"> 
+> 
+> Press a button and reveal the Secret message - this one was created to surprise my girlfriend for Valentine's Day.
 
 - Arpeggio piano (Documentation page will be added soon...)
+> <img src="include/PianoGif.gif" alt="Animated GIF Life Stats" width="90%"> 
+> 
 > Become a professional piano player... sort of... not really.
 
 ---
@@ -114,12 +118,14 @@ _To be uploaded soon..._
 
 **Projects Overview:**
 
-
-
 - Life statistics (Google Sheets) (Documentation page will be added soon...)
+> <img src="include/LifeStatGif.gif" alt="Animated GIF Life Stats" width="90%"> 
+> 
 > Make an overview of the satisfaction in every area of your life and compare it to the previous month.
 
 - Monthly Reading Tracker (Google Sheets) (Documentation page will be added soon...)
+> <img src="include/ReadingGif.gif" alt="Animated GIF Reading Stats" width="90%"> 
+> 
 > Track how much time you've read a book this month.
 
 - Custom shortcuts for work (AutoHotkey) (Documentation page will be added soon...)
