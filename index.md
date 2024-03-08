@@ -45,7 +45,7 @@ Programming is just one of my many hobbies. I have created every project purely 
 - Immersive Game Menu (Documentation will be uploaded soon...)
 > <img src="include/SurviveMenuGif.gif" alt="Animated GIF Survive Unity" width="90%"> 
 > 
-> Inspired by my passion for survival games and my favourite game Outer Wilds, I created a menu that uses the base game's environment for more immersiveness.
+> Inspired by my passion for survival games and my favourite game Outer Wilds, I created a survival environment and made a menu that uses it for more immersiveness.
 
 
 - RPG Idle Collector (Documentation will be uploaded soon...)
@@ -59,17 +59,20 @@ Programming is just one of my many hobbies. I have created every project purely 
 
 **Projects Overview:**
 
-- Handy Menu (Uploading soon...)
-> A menu with useful tools to use as an IT Supporter.
-
-- Handy Menu v2 (Uploading soon...)
-> A menu with hotfixes and other tools to use as an IT Supporter.
-
 - Slot machine (Uploading soon...)
-> Spin the slot machine and see if you win!
+> <img src="include/SlotMachineGif.gif" alt="Animated GIF SlotMachine Unity" width="90%"> 
+> 
+> Just spin and see if you win!
 
-- Free From School Timer (Uploading soon...)
-> A simple clock that tells you how much time you have until school finishes.
+- Digital Free From School Timer (Uploading soon...)
+> <img src="include/DigitalClockGif.gif" alt="Animated GIF DigitalClock Unity" width="90%"> 
+> 
+> A simple digital timer that tells you how much time you have until school finishes or your next break.
+
+- Handy Menu (Uploading soon...)
+> <img src="include/MenuGif.gif" alt="Animated GIF Menu Unity" width="90%"> 
+> 
+> A menu with useful tools to use as an IT Supporter.
 
 ---
 
@@ -78,7 +81,14 @@ Programming is just one of my many hobbies. I have created every project purely 
 **Projects Overview:**
 
 - Survival game (Uploading soon...)
+>  <img src="include/SurviveGif.gif" alt="Animated GIF Menu Unity" width="90%"> 
+>
 > A survival game where you need to survive as long as you can by taking life-depending decisions.
+
+- Puzzle game
+> <img src="include/PuzzleGif.gif" alt="Animated GIF Menu Unity" width="90%"> 
+>
+> Move objects, collect keys, solve puzzles and open doors to reach the next level without getting stuck.
 
 ---
 
@@ -93,6 +103,12 @@ Programming is just one of my many hobbies. I have created every project purely 
 > Become a professional piano player... sort of... not really.
 
 ---
+
+## Flutter (Dart)
+
+**Projects Overview:**
+
+_To be uploaded soon..._
 
 ## Other
 
