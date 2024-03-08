@@ -97,12 +97,12 @@ Programming is just one of my many hobbies. I have created every project purely 
 **Projects Overview:**
 
 - Reveal a Secret Message (Documentation page will be added soon...)
-> <img src="include/SecretGif.gif" alt="Animated GIF Life Stats" width="90%"> 
+> <img src="include/SecretGif.gif" alt="Animated GIF Life Stats" width="60%"> 
 > 
 > Press a button and reveal the Secret message - this one was created to surprise my girlfriend for Valentine's Day.
 
 - Arpeggio piano (Documentation page will be added soon...)
-> <img src="include/PianoGif.gif" alt="Animated GIF Life Stats" width="90%"> 
+> <img src="include/PianoGif.gif" alt="Animated GIF Life Stats" width="60%"> 
 > 
 > Become a professional piano player... sort of... not really.
 
@@ -119,12 +119,12 @@ _To be uploaded soon..._
 **Projects Overview:**
 
 - Life statistics (Google Sheets) (Documentation page will be added soon...)
-> <img src="include/LifeStatGif.gif" alt="Animated GIF Life Stats" width="90%"> 
+> <img src="include/LifeStatGif.gif" alt="Animated GIF Life Stats" width="60%"> 
 > 
 > Make an overview of the satisfaction in every area of your life and compare it to the previous month.
 
 - Monthly Reading Tracker (Google Sheets) (Documentation page will be added soon...)
-> <img src="include/ReadingGif.gif" alt="Animated GIF Reading Stats" width="90%"> 
+> <img src="include/ReadingGif.gif" alt="Animated GIF Reading Stats" width="60%"> 
 > 
 > Track how much time you've read a book this month.
 
