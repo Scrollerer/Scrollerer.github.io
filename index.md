@@ -9,7 +9,7 @@
 
 ## Description 
 This is an overview of some of my programming projects since 2015.
-All of the projects have been done with immense passion and countless of hours of debuging to achieve perfection.
+All of the projects have been done with immense passion and countless hours of debugging to achieve perfection.
 By gamifying my projects, I keep my love for programming alive, making learning new languages more exciting and every success incredibly rewarding.
 
 ---
@@ -20,22 +20,36 @@ By gamifying my projects, I keep my love for programming alive, making learning 
 - Snake Game
 >  <img src="include/game_loading.gif" alt="Animated GIF loading game" class="center" width="70%"> 
 >
-> Already in the first semester of my education without any previous experiece I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels and multiplayer mode between two PLCs using Get/Put commands. 
+> Already in the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
+
 
 - 2 Player Whack-a-Mole Game
-> <img src="include/game_loading.gif" alt="Animated GIF loading game" class="center" width="70%">  
+> <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" class="center" width="90%">  
 >
-> Using only one PLC and two HMI to create a game where your reflexes are put to the test. Two players compete in tapping as many moles a possible within one minute to define the winner.
+> Using only one PLC and two HMI to create a game where your reflexes are put to the test. Two players compete in tapping as many moles as possible within one minute to define the winner.
+
 
 - Box Washer
 > <img src="include/game_loading.gif" alt="Animated GIF loading game" class="center" width="70%">  
 >
-> As a finishing first semester project, I had to create a program and design a HMI for a customer's prototype Box Washer. It features six different screens with advanced animations, timers and indicators.
+> As a finishing first-semester project, I had to create a program and design an HMI for a customer's prototype Box Washer. It features six different screens with advanced animations, timers, and indicators.
+
 
 - FESTO Stations - Sorting and Processing
 > <img src="include/game_loading.gif" alt="Animated GIF loading game" class="center" width="70%">  
 >
-> As a finishing second semester project, I had to learn how the two stations work, troubleshoot and modify their code so they can communicate and work together and design a HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under stations' automatic operation.
+> As a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation.
+
+---
+
+## Thonny (Python)
+
+**Projects Overview:**
+
+- Pico Go Robot
+> <img src="include/game_loading.gif" alt="Animated GIF loading game" class="center" width="70%">  
+>
+> More info soon.
 
 ---
 
@@ -70,7 +84,7 @@ By gamifying my projects, I keep my love for programming alive, making learning 
 - Immersive Game Menu
 > <img src="include/SurviveMenuGif.gif" alt="Animated GIF Survive Unity" width="90%"> 
 > 
-> Inspired by my passion for survival games and my favourite game Outer Wilds, I created a survival environment and made a menu that uses it for more immersiveness.
+> Inspired by my passion for survival games and my favorite game Outer Wilds, I created a survival environment and made a menu that uses it for more immersiveness.
 
 
 - RPG Idle Collector
@@ -80,7 +94,7 @@ By gamifying my projects, I keep my love for programming alive, making learning 
 
 ---
 
-## C++ + CMD
+## CMD (C++)
 
 **Projects Overview:**
 
