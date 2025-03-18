@@ -18,8 +18,9 @@ By gamifying my projects, I keep my love for programming alive, making learning 
 **Projects Overview:**
 
 - Snake Game
->  <img src="include/loadcat.gif" alt="Animated GIF loading game" width="70%"> 
->(uploading preview soon)
+>  <img src="include/loadcat.gif" alt="Animated GIF loading game" width="95%"> 
+>
+> (uploading preview soon)
 > Already in the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
 
 
@@ -30,14 +31,16 @@ By gamifying my projects, I keep my love for programming alive, making learning 
 
 
 - Box Washer
-> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="70%">  
->(uploading preview soon)
+> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="95%">  
+>
+> (uploading preview soon)
 > As a finishing first-semester project, I had to create a program and design an HMI for a customer's prototype Box Washer. It features six different screens with advanced animations, timers, and indicators.
 
 
 - FESTO Stations - Sorting and Processing 
-> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="70%">  
->(uploading preview soon)
+> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="95%">  
+>
+> (uploading preview soon)
 > As a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation.
 
 ---
@@ -47,8 +50,9 @@ By gamifying my projects, I keep my love for programming alive, making learning 
 **Projects Overview:**
 
 - Pico Go Robot
-> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="70%">  
->(uploading preview soon)
+> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="95%">  
+>
+> (uploading preview soon)
 > More info soon.
 
 ---
