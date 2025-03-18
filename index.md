@@ -178,6 +178,8 @@ _To be uploaded soon..._
 - Custom shortcuts for work (AutoHotkey)
 > I scripted a few custom shortcuts to make my work as an IT Supporter quicker and more efficient.
 
+<img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="90%"> 
+
 ```
 01001000 01100101 01101100 01101100 01101111 00100000 01100110 01100101 01101100 01101100 01101111 01110111 00100000 01001001 01010100 00100000 01110000 01100101 01110010 01110011 01101111 01101110 00100001 00100000 00111010 00101001
 ```
