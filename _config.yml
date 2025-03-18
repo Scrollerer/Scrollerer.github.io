@@ -1,7 +1,7 @@
 remote_theme: pages-themes/leap-day@v0.2.0
 title: Space of PE
 og:title: Portfolio
-description: This is Pavlin Edrev's programming portfolio. Here you will find all of his programming projects.
+description: Weclome to my programming portfolio. Here you will find almost all of my programming projects.
 defaults:
   -
     values:
