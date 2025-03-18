@@ -24,7 +24,7 @@ By gamifying my projects, I keep my love for programming alive, making learning 
 
 
 - 2 Player Whack-a-Mole Game
-> <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" class="center" width="90%">  
+> <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" class="center" width="30%">  
 >
 > Using only one PLC and two HMI to create a game where your reflexes are put to the test. Two players compete in tapping as many moles as possible within one minute to define the winner.
 
