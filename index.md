@@ -18,7 +18,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - Snake Game
->  <img src="include/loadcat.gif" alt="Animated GIF loading game" width="15%"> 
+>  <img src="include/loadcat.gif" alt="Animated GIF loading game" width="10%"> 
 >
 > (uploading preview soon)
 > 
@@ -36,7 +36,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - Box Washer Prototype
-> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="15%">  
+> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="10%">  
 >
 > (uploading preview soon)
 > 
@@ -46,7 +46,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - FESTO Stations - Sorting and Processing 
-> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="15%">  
+> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="10%">  
 >
 > (uploading preview soon)
 > 
@@ -61,7 +61,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - Pico Go Robot
-> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="15%">  
+> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="10%">  
 >
 > (uploading preview soon)
 > 
