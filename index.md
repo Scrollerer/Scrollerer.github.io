@@ -26,9 +26,9 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > Already in the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. 
 > 
-> It features difficulty modes, levels and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
+> It features difficulty modes, levels, and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
 >
-> My inspiration for recreating this game was brought up the nostalgic moments of my childhood of me playing Snake on my Gameboy. The fact that there was no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely satisfactory in the end.
+> My inspiration for recreating this game was brought up the nostalgic moments of my childhood of me playing Snake on my Gameboy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely fulfilling in the end.
 
 
 - 2 Player Whack-a-Mole Game
@@ -44,7 +44,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 >
 > (uploading preview soon)
 > 
-> As a finishing first-semester project, I had to create a program and design an HMI for a customer's prototype Box Washer. It features six different screens with advanced animations, timers, and indicators. I felt a great sense of accomplishment after drawing the 2D model for the machine, designing the HMI screens and programming the logic - completely from scratch.
+> As a finishing first-semester project, I had to create a program and design an HMI for a customer's prototype Box Washer. It features six different screens with advanced animations, timers, and indicators. I felt a great sense of accomplishment after drawing the 2D model for the machine, designing the HMI screens, and programming the logic - completely from scratch.
 >
 > The freedom to create everything from scratch by letting my imagination and creativity run freely, made the completion of this project deeply fulfilling when I saw all parts working together as a whole. 
 
@@ -82,7 +82,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles. 
 > 
-> I have always wanted to create a mobile game ever since I was a kid. I finally accomplished that and the kid in me is crying happy tears now.
+> I have always wanted to create a mobile game ever since I was a kid. I finally accomplished that and the kid in me is feeling super proud now.
 
 
 - ZigZag
@@ -115,7 +115,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > Inspired by my passion for survival games and my favorite game Outer Wilds, I created a survival environment and made a menu that uses it for more immersiveness.
 > 
-> It might not look like much, but when I finished this project and added the music, it brought up tears in my eyes.
+> It might not look like much, but when I finished this project and added the music, it made me emotional.
 
 
 - RPG Idle Collector
