@@ -9,7 +9,9 @@
 
 ## Description 
 This is an overview of some of my programming projects since 2015.  
+
 All of the projects have been done with immense passion, countless hours of debugging, and letting my creativity run free to achieve success, perfection, and complete fulfillment—satisfaction and even tears of happiness.  
+
 By gamifying my projects, I dig deep into the logic behind each dynamic to understand, learn, and keep my love for programming alive, making learning new languages more exciting and every success incredibly rewarding and fulfilling.
 
 ---
@@ -22,7 +24,9 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 >
 > (uploading preview soon)
 > 
-> Already in the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
+> Already in the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. 
+
+It features difficulty modes, levels and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
 >
 > My inspiration for recreating this game was brought up the nostalgic moments of my childhood of me playing Snake on my Gameboy. The fact that there was no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely satisfactory in the end.
 
