@@ -20,7 +20,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - **Snake Game**
->  <img src="include/loadcat.gif" alt="Animated GIF loading game" width="10%"> 
+>  <img src="include/Snake_PLC.gif" alt="Animated GIF Snake Game PLC" width="30%"> 
 >
 > (uploading preview soon)
 > 
