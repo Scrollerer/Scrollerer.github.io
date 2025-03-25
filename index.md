@@ -21,12 +21,10 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 - **Snake Game**
 >  <img src="include/Snake_PLC.gif" alt="Animated GIF Snake Game PLC" width="30%"> 
->
-> (uploading preview soon)
 > 
-> Already in the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
+> In the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
 > 
-> My inspiration for recreating this game was brought up by the nostalgic moments of my childhood of me playing Snake on my Gameboy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely fulfilling in the end.
+> I was inspired to recreate this game by nostalgic childhood memories of playing Snake on my Gameboy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging but also extremely fulfilling in the end.
 
 
 - **2 Player Whack-a-Mole Game**
