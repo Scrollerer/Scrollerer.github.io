@@ -37,8 +37,6 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 - **Box Washer Prototype**
 > <img src="include/Box_Washer_Prototype.gif" alt="Animated GIF loading game" width="90%">  
->
-> (uploading preview soon)
 > 
 > As a finishing first-semester project, I had to create a program and design an HMI for a customer's prototype Box Washer. It features six different screens with advanced animations, timers, and indicators. I felt a great sense of accomplishment after drawing the 2D model for the machine, designing the HMI screens, and programming the logic - completely from scratch.
 >
@@ -47,8 +45,6 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 - **FESTO Stations - Sorting and Processing**
 > <img src="include/FESTO.gif" alt="Animated GIF loading game" width="90%">  
->
-> (uploading preview soon)
 > 
 > As a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
 > 
