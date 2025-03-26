@@ -36,7 +36,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **Box Washer Prototype**
-> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="10%">  
+> <img src="include/Box_Washer_Prototype.gif" alt="Animated GIF loading game" width="30%">  
 >
 > (uploading preview soon)
 > 
@@ -46,11 +46,11 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **FESTO Stations - Sorting and Processing**
-> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="10%">  
+> <img src="include/FESTO.gif" alt="Animated GIF loading game" width="30%">  
 >
 > (uploading preview soon)
 > 
-> As a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation.
+> As a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
 > 
 > Being given a task to understand an unknown machine without any guidance was challenging, but it was exactly what made me feel a deep sense of accomplishment once I figured it out.
 
