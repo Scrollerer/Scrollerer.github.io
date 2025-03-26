@@ -36,7 +36,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **Box Washer Prototype**
-> <img src="include/Box_Washer_Prototype.gif" alt="Animated GIF loading game" width="30%">  
+> <img src="include/Box_Washer_Prototype.gif" alt="Animated GIF loading game" width="90%">  
 >
 > (uploading preview soon)
 > 
@@ -46,7 +46,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **FESTO Stations - Sorting and Processing**
-> <img src="include/FESTO.gif" alt="Animated GIF loading game" width="30%">  
+> <img src="include/FESTO.gif" alt="Animated GIF loading game" width="90%">  
 >
 > (uploading preview soon)
 > 
