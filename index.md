@@ -24,7 +24,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > In the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
 > 
-> I was inspired to recreate this game by nostalgic childhood memories of playing Snake on my Gameboy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging but also extremely fulfilling in the end.
+> I was inspired to recreate this game by nostalgic childhood memories of playing Snake on my Gameboy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely fulfilling in the end.
 
 
 - **2 Player Whack-a-Mole Game**
@@ -32,7 +32,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 >
 > Using only one PLC and two HMIs to create a game where your reflexes are put to the test. Two players compete in tapping as many moles as possible within one minute to define the winner.
 >
-> The art is created in paint and inspired by Pokemon - one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I had recently with my girlfriend.
+> The art is created in paint and inspired by Pokémon, one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I recently had with my girlfriend.
 
 
 - **Box Washer Prototype**
@@ -40,13 +40,13 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > As a finishing first-semester project, I had to create a program and design an HMI for a customer's prototype Box Washer. It features six different screens with advanced animations, timers, and indicators. I felt a great sense of accomplishment after drawing the 2D model for the machine, designing the HMI screens, and programming the logic - completely from scratch.
 >
-> The freedom to create everything from scratch by letting my imagination and creativity run freely, made the completion of this project deeply fulfilling when I saw all parts working together as a whole. 
+> The freedom to create everything from scratch by letting my imagination and creativity run freely made the completion of this project deeply fulfilling when I saw all parts working together as a whole. 
 
 
 - **FESTO Stations - Sorting and Processing**
 > <img src="include/FESTO.gif" alt="Animated GIF loading game" width="90%">  
 > 
-> As a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
+> As a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together, and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
 > 
 > Being given a task to understand an unknown machine without any guidance was challenging, but it was exactly what made me feel a deep sense of accomplishment once I figured it out.
 
@@ -56,12 +56,21 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 **Projects Overview:**
 
-- **Pico Go Robot**
-> <img src="include/loadcat.gif" alt="Animated GIF loading game" width="10%">  
->
-> (uploading preview soon)
+- **Warehouse Worker Prototype**
+>  <img src="include/loadcat.gif" alt="Animated GIF Warehouse PicoGo" width="10%"> 
 > 
-> More info soon.
+> Using the PicoGo v2 robot and manipulating almost all of its sensors with Python, I made a prototype for it to be the perfect warehouse worker, or a Roomba if you attach a vacuum to it... 
+> 
+> It features line tracking, obstacle avoidance and both manual and automatic modes. Using the manual mode, you can assign a station using the remote control, and the robot will get to that station, deload, and return to the starting station. Using Automatic mode, you just press start on the remote and it assigns a random station to go to, then it returns to the starting station, and it does the same thing over and over again, until the battery dies or you stop it.
+
+
+- **Self Playing Snake game**
+> <img src="include/loadcat.gif" alt="Animated GIF SnakeGame PicoGo" width="10%">  
+> 
+> Using a little 1.14-inch LCD, Raspberry Pi Pico, Python, and the lack of buttons pushed me in the direction to make the Snake game play on its own. It works well as an entertaining screensaver.
+> 
+> Right after creating the snake game for PLC (Further up in the portfolio), I thought I would challenge myself to make it in Python too. Due to the lack of buttons on the PicoGo robot, I had to make it play on its own. I could technically use its IR sensors to control the snake.
+
 
 ---
 
@@ -74,7 +83,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles. 
 > 
-> I have always wanted to create a mobile game ever since I was a kid. I finally accomplished that and the kid in me is feeling super proud now.
+> I have always wanted to create a mobile game ever since I was a kid. I finally accomplished that, and the kid in me is feeling super proud now.
 
 
 - **ZigZag**
@@ -82,7 +91,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 >
 > **Description:** Challenge yourself by zig-zagging and avoid falling off the platform.
 > 
-> Being one of the most popular games in the AppStore and looking pretty simple, I decided to challenge myself and recreate it. Finishing this game, inspired me to do more projects in the iOS environment.
+> Being one of the most popular games in the App Store and looking pretty simple, I decided to challenge myself and recreate it. Finishing this game inspired me to do more projects in the iOS environment.
 
 
 - **Arena Shape Shooter**
@@ -105,7 +114,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 - **Immersive Game Menu**
 > <img src="include/SurviveMenuGif.gif" alt="Animated GIF Survive Unity" width="90%"> 
 > 
-> **Description:** Inspired by my passion for survival games and my favorite game Outer Wilds, I created a survival environment and made a menu that uses it for more immersiveness.
+> **Description:** Inspired by my passion for survival games and my favorite game Outer Wilds, I created a survival environment and made a menu that uses it for more immersion.
 > 
 > It might not look like much, but when I finished this project and added the music, it made me emotional.
 
@@ -150,7 +159,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > **Description:** Just spin and see if you win!
 > 
-> One of the projects from school was to visualize my classmates how casinos eventually steal all their money.
+> One of the projects from school was to visualize for my classmates how casinos eventually steal all their customers' money.
 
 
 - **Digital Free From School Timer**
@@ -158,14 +167,14 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > **Description:** A simple digital timer that tells you how much time you have until school finishes or your next break.
 > 
-> When I used to go to primary school I had a classmate who didn't have a watch, so he was constantly asking me how much time there was left until the end of school. There you go, Phillip!
+> When I used to go to primary school, I had a classmate who didn't have a watch, so he was constantly asking me how much time there was left until the end of school. There you go, Phillip!
 
 - **Handy Menu**
 > <img src="include/MenuGif.gif" alt="Animated GIF Menu" height="90%"> 
 > 
 > **Description:** A menu with useful tools to use as an IT Supporter.
 > 
-> Making it easier to navigate a few scripts when you have a menu instead. This was my first introduction to GUI in Powershell.
+> Making it easier to navigate a few scripts when you have a menu instead. This was my first introduction to GUI in PowerShell.
 
 ---
 
@@ -185,7 +194,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > **Description:** Become a professional piano player... sort of... not really.
 > 
-> My roommate used to say I sing bad. Now he says I sing and play piano bad...
+> My roommate used to say I sing badly. Now he says I sing AND play piano badly...
 
 ---
 
@@ -198,6 +207,20 @@ _To be uploaded soon..._
 ## Other
 
 **Projects Overview:**
+
+- **Minecraft Battle Royale (Command Blocks)**
+> <img src="include/loadcat.gif" alt="Picture Minecraft Command Blocks" width="10%"> 
+> 
+> **Description:** Get thrown on an island with countless of other players, gather gear, and fight your way against other players through the shrinking zone to become the last player standing.
+> 
+> I had to create a LAN Party project that could involve the whole school. I decided to create a Minecraft server, and instead of using traditional mods, I decided to create the whole Battler Royale game from scratch using only Command blocks inside Minecraft. The project was endorsed and enjoyed by everyone(around 100 people) who joined the server.
+
+- **WordPress Websites (HTML/CSS)**
+> <img src="include/loadcat.gif" alt="" width="10%"> 
+> 
+> **Description:** Allows you to find out more about me, my dating story, and the services that I offer in my Dating business.
+> 
+> Using WordPress, Elementor Plugin, HTML, and CSS, I created two websites to improve the reach of my dating business so more people can learn about the services I provide.
 
 - **Life statistics (Google Sheets)**
 > <img src="include/LifeStatGif.gif" alt="Animated GIF Life Stats" width="60%"> 
@@ -216,7 +239,7 @@ _To be uploaded soon..._
 - **Custom shortcuts for work (AutoHotkey)**
 > **Description:** I scripted a few custom shortcuts to make my work as an IT Supporter quicker and more efficient.
 >
-> While my colleagues were wasting time trying to find every tool they needed, I was super efficiently doing my work without any interruptions and saving time both for myself and the clients I was supporting.
+> While my colleagues were wasting time trying to find every tool they needed, I was working super efficiently without any interruptions and saving time both for myself and the clients I was supporting.
 
 <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%"> 
 
