@@ -215,9 +215,7 @@ _To be uploaded soon..._
 > 
 > I had to create a LAN Party project that could involve the whole school. I decided to create a Minecraft server, and instead of using traditional mods, I decided to create the whole Battler Royale game from scratch using only Command blocks inside Minecraft. The project was endorsed and enjoyed by everyone(around 100 people) who joined the server.
 
-- **WordPress Websites (HTML/CSS)**
-> <img src="include/loadcat.gif" alt="" width="10%"> 
-> 
+- **WordPress Websites (HTML/CSS)** 
 > **Description:** Allows you to find out more about me, my dating story, and the services that I offer in my Dating business.
 > 
 > Using WordPress, Elementor Plugin, HTML, and CSS, I created two websites to improve the reach of my dating business so more people can learn about the services I provide.
