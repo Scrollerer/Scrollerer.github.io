@@ -20,7 +20,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - **Snake Game**
->  <img src="include/Snake_PLC.gif" alt="Animated GIF Snake Game PLC" width="30%"> 
+>  <img src="include/Snake_PLC.gif" alt="Animated GIF Snake Game PLC" width="50%"> 
 > 
 > In the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
 > 
@@ -28,7 +28,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **2 Player Whack-a-Mole Game**
-> <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" width="30%">  
+> <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" width="50%">  
 >
 > Using only one PLC and two HMIs to create a game where your reflexes are put to the test. Two players compete in tapping as many moles as possible within one minute to define the winner.
 >
@@ -79,7 +79,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - **Color Switch Dash**
->  <img src="include/SwitchColorGif.gif" alt="Animated GIF ColorSwitch Unity" width="30%"> 
+>  <img src="include/SwitchColorGif.gif" alt="Animated GIF ColorSwitch Unity" width="50%"> 
 > 
 > **Description:** See how long you can go by jumping over, going under, switching colors, and going through obstacles. 
 > 
@@ -87,7 +87,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **ZigZag**
-> <img src="include/ZigZagGif.gif" alt="Animated GIF ZigZag Unity" width="30%"> 
+> <img src="include/ZigZagGif.gif" alt="Animated GIF ZigZag Unity" width="50%"> 
 >
 > **Description:** Challenge yourself by zig-zagging and avoid falling off the platform.
 > 
@@ -120,7 +120,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **RPG Idle Collector**
-> <img src="include/RPGGif.gif" alt="Animated GIF RPG Unity" width="30%"> 
+> <img src="include/RPGGif.gif" alt="Animated GIF RPG Unity" width="50%"> 
 > 
 > **Description:** Upgrade your collector and see how fast you can make it.
 > 
