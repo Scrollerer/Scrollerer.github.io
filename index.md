@@ -57,7 +57,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - **Warehouse Worker Prototype**
->  <img src="include/Robot_Warehouse.gif" alt="Animated GIF Warehouse PicoGo" width="10%"> 
+>  <img src="include/Robot_Warehouse.gif" alt="Animated GIF Warehouse PicoGo" width="50%"> 
 > 
 > Using the PicoGo v2 robot and manipulating almost all of its sensors with Python, I made a prototype for it to be the perfect warehouse worker, or a Roomba if you attach a vacuum to it... 
 > 
@@ -65,7 +65,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **Self Playing Snake game**
-> <img src="include/Robot_Snake.gif" alt="Animated GIF SnakeGame PicoGo" width="10%">  
+> <img src="include/Robot_Snake.gif" alt="Animated GIF SnakeGame PicoGo" width="50%">  
 > 
 > Using a little 1.14-inch LCD, Raspberry Pi Pico, Python, and the lack of buttons pushed me in the direction to make the Snake game play on its own. It works well as an entertaining screensaver.
 > 
