@@ -209,7 +209,7 @@ _To be uploaded soon..._
 **Projects Overview:**
 
 - **Minecraft Battle Royale (Command Blocks)**
-> <img src="include/loadcat.gif" alt="Picture Minecraft Command Blocks" width="10%"> 
+> <img src="include/MC_Block.webp" alt="Picture Minecraft Command Blocks" width="40%"> 
 > 
 > **Description:** Get thrown on an island with countless of other players, gather gear, and fight your way against other players through the shrinking zone to become the last player standing.
 > 
