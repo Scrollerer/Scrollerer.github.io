@@ -34,7 +34,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > Beep Beep
 
 - **2-Player Rally Race Game**
->  <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%"> 
+>  <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="30%"> 
 > 
 > Beep Beep
 > 
@@ -48,7 +48,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > The art is created in paint and inspired by Pokémon, one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I recently had with my girlfriend.
 
 - **Bottle Filling Prototype**
-> <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%"> 
+> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="30%"> 
 > 
 > Beep Beep
 >
@@ -62,7 +62,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > The freedom to create everything from scratch by letting my imagination and creativity run freely made the completion of this project deeply fulfilling when I saw all parts working together as a whole. 
 
 - **FESTO Stations - Disribution and Sorting**
-> <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%"> 
+> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="30%"> 
 > 
 > Beep Beep 
 > 
@@ -82,7 +82,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - **Advanced Depaletising and Paletising**
->  <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%">  
+> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="30%">  
 > 
 > Beep Beep
 > 
@@ -90,7 +90,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **Simple Pick and Place**
->  <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%">  
+> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="30%">  
 > 
 > The robot arm picks up two blocks and puts them on top of eachother and then puts them back. It simulates paletising and depaletising items in the automation industry.
 > 
