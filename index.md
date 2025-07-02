@@ -22,10 +22,23 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 - **Snake Game**
 >  <img src="include/Snake_PLC.gif" alt="Animated GIF Snake Game PLC" width="50%"> 
 > 
-> In the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and PLCs using Get/Put commands. 
+> In the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and two PLCs using Get/Put commands. 
 > 
 > I was inspired to recreate this game by nostalgic childhood memories of playing Snake on my Gameboy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely fulfilling in the end.
 
+- **Flappy Bird Game**
+>  <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%"> 
+> 
+> Beep Beep
+> 
+> Beep Beep
+
+- **2-Player Rally Race Game**
+>  <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%"> 
+> 
+> Beep Beep
+> 
+> Beep Beep
 
 - **2 Player Whack-a-Mole Game**
 > <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" width="50%">  
@@ -34,6 +47,12 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 >
 > The art is created in paint and inspired by Pokémon, one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I recently had with my girlfriend.
 
+- **Bottle Filling Prototype**
+> <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%"> 
+> 
+> Beep Beep
+>
+> Beep Beep
 
 - **Box Washer Prototype**
 > <img src="include/Box_Washer_Prototype.gif" alt="Animated GIF loading game" width="90%">  
@@ -42,13 +61,40 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 >
 > The freedom to create everything from scratch by letting my imagination and creativity run freely made the completion of this project deeply fulfilling when I saw all parts working together as a whole. 
 
+- **FESTO Stations - Disribution and Sorting**
+> <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%"> 
+> 
+> Beep Beep 
+> 
+> Beep Beep 
 
 - **FESTO Stations - Sorting and Processing**
 > <img src="include/FESTO.gif" alt="Animated GIF loading game" width="90%">  
 > 
-> As a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together, and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
+> As part of a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together, and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
 > 
 > Being given a task to understand an unknown machine without any guidance was challenging, but it was exactly what made me feel a deep sense of accomplishment once I figured it out.
+
+---
+
+## WINCAPS III (PAC)
+
+**Projects Overview:**
+
+- **Advanced Depaletising and Paletising**
+>  <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%">  
+> 
+> Beep Beep
+> 
+> Beep Beep
+
+
+- **Simple Pick and Place**
+>  <img src="include/pixel-cat.gif" alt="Animated GIF loading game" class="center" width="40%">  
+> 
+> The robot arm picks up two blocks and puts them on top of eachother and then puts them back. It simulates paletising and depaletising items in the automation industry.
+> 
+> Getting into PAC Script for the first time ever, I created this simple program to learn the basics of the language and be able to program the robot arm most efficiently.
 
 ---
 
