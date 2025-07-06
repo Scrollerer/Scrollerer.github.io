@@ -47,13 +47,14 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 >
 > The art is created in paint and inspired by Pokémon, one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I recently had with my girlfriend.
 
+<div id="bottle_filling">
 - **Bottle Filling Prototype**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
 > 
-> Beep Beep
+> As a finishing second-semester project, I had to create a PLC program and design an HMI for a company that wanted to incorporate a bottle-filling machine with future scaling in mind. The HMI features a clean interface according to industry standards with cleverly organised menus, submenus, pop-ups, alarms, and user-friendly controls. The PLC program is structured with many function blocks, data blocks, custom data types, and folders, making it fully library-conformant and easily scaled.
 >
-> Beep Beep
-
+> The process was as follows: Robot arm depalletizes a random bottle, puts it on an RFID scanner to identify size, sends information to a PLC, and that gets sent to a second PLC, which then
+</div>
 - **Box Washer Prototype**
 > <img src="include/Box_Washer_Prototype.gif" alt="Animated GIF loading game" width="90%">  
 > 
@@ -61,7 +62,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 >
 > The freedom to create everything from scratch by letting my imagination and creativity run freely made the completion of this project deeply fulfilling when I saw all parts working together as a whole. 
 
-- **FESTO Stations - Disribution and Sorting**
+- **FESTO Stations - Distribution and Sorting**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
 > 
 > Beep Beep 
@@ -71,7 +72,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 - **FESTO Stations - Sorting and Processing**
 > <img src="include/FESTO.gif" alt="Animated GIF loading game" width="90%">  
 > 
-> As part of a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together, and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as, seeing all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
+> As part of a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together, and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as see all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
 > 
 > Being given a task to understand an unknown machine without any guidance was challenging, but it was exactly what made me feel a deep sense of accomplishment once I figured it out.
 
@@ -81,18 +82,18 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 **Projects Overview:**
 
-- **Advanced Depaletising and Paletising**
+- **Advanced Depalletising and Paletising**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%">  
 > 
-> Beep Beep
+> As part of the <nav> <a href="#bottle_filling"> second-semester projects </a> </nav>, I had to make a DENSO robot arm depalletize a bottle, move it in front of an RFID scanner, put it into a bottle filling machine, sort it according to bottle size, and then palletize both bottle sizes on top of each other.
 > 
-> Beep Beep
+> This project uses a lot of communication between the robot and the main bottle-filling machine program(described further above) to make everything work in harmony. 
 
 
 - **Simple Pick and Place**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%">  
 > 
-> The robot arm picks up two blocks and puts them on top of eachother and then puts them back. It simulates paletising and depaletising items in the automation industry.
+> The robot arm picks up two blocks and puts them on top of eachother and then puts them back. It simulates palletizing and depalletizing items in the automation industry.
 > 
 > Getting into PAC Script for the first time ever, I created this simple program to learn the basics of the language and be able to program the robot arm most efficiently.
 
