@@ -47,32 +47,33 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 >
 > The art is created in paint and inspired by Pokémon, one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I recently had with my girlfriend.
 
-<div id="bottle_filling">
+<div id="bottle_filling"></div>
+
 - **Bottle Filling Prototype**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
 > 
 > As a finishing second-semester project, I had to create a PLC program and design an HMI for a company that wanted to incorporate a bottle-filling machine with future scaling in mind. The HMI features a clean interface according to industry standards with cleverly organised menus, submenus, pop-ups, alarms, and user-friendly controls. The PLC program is structured with many function blocks, data blocks, custom data types, and folders, making it fully library-conformant and easily scaled.
 >
-> The process was as follows: Robot arm depalletizes a random bottle, puts it on an RFID scanner to identify size, sends information to a PLC, and that gets sent to a second PLC, which then
-</div>
+> Without using the <a href="#bottle_filling"> DENSO robotarm to depalletize, scan, move, sort, and palletize the different bottle types, </a> and good communication between the PLCs, this project wouldn't have been completed. It was super interesting and fun to combine and make a simulation of these two machines, making me feel like I am one step closer to the real industry world.
+
 - **Box Washer Prototype**
 > <img src="include/Box_Washer_Prototype.gif" alt="Animated GIF loading game" width="90%">  
 > 
-> As a finishing first-semester project, I had to create a program and design an HMI for a customer's prototype Box Washer. It features six different screens with advanced animations, timers, and indicators. I felt a great sense of accomplishment after drawing the 2D model for the machine, designing the HMI screens, and programming the logic - completely from scratch.
+> As a finishing first-semester project, I had to create a program and design an HMI for a customer's prototype Box Washer. It features six different screens with advanced animations, timers, and indicators. I felt a great sense of accomplishment after drawing the 2D model for the machine, designing the HMI screens, and programming the logic, completely from scratch.
 >
 > The freedom to create everything from scratch by letting my imagination and creativity run freely made the completion of this project deeply fulfilling when I saw all parts working together as a whole. 
 
 - **FESTO Stations - Distribution and Sorting**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
 > 
-> Beep Beep 
+> As part of a school project, I had to make these two stations communicate well with each other and work together in harmony to make them as efficient and fast as possible. They feature a queue system, alarms, and a simple and user-friendly HMI screen for process overview and manual operation of each component.
 > 
-> Beep Beep 
+> Taking a simple project such as this one and making it as efficient as possible was not an easy task, but it was super fun to troubleshoot one step at a time and learn from my mistakes along the way until I finally achieved my goal.
 
 - **FESTO Stations - Sorting and Processing**
 > <img src="include/FESTO.gif" alt="Animated GIF loading game" width="90%">  
 > 
-> As part of a finishing second-semester project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together, and design an HMI. The HMI makes it possible to manually interact with each component on the Station, as well as see all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
+> As part of a school project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together, and design an HMI. The HMI makes it possible to interact with each component on the Station manually, as well as see all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
 > 
 > Being given a task to understand an unknown machine without any guidance was challenging, but it was exactly what made me feel a deep sense of accomplishment once I figured it out.
 
@@ -82,12 +83,14 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 **Projects Overview:**
 
+<div id="robot_arm_project"></div>
+
 - **Advanced Depalletising and Paletising**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%">  
 > 
-> As part of the <nav> <a href="#bottle_filling"> second-semester projects </a> </nav>, I had to make a DENSO robot arm depalletize a bottle, move it in front of an RFID scanner, put it into a bottle filling machine, sort it according to bottle size, and then palletize both bottle sizes on top of each other.
+> As part of the <a href="#bottle_filling"> second-semester projects </a>, I had to program a DENSO robot arm to depalletize a random size bottle, move it in front of an RFID scanner to identify its size, put it into a bottle filling machine until filled, sort the bottle according to its size, and then palletize the different sort of bottles on top of each other to create a pallet. 
 > 
-> This project uses a lot of communication between the robot and the main bottle-filling machine program(described further above) to make everything work in harmony. 
+> This project uses a lot of communication between the robot and <a href="#bottle_filling"> the main bottle-filling machine program </a> to make everything work in harmony, and it was super fun to make.  
 
 
 - **Simple Pick and Place**
