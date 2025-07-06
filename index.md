@@ -76,9 +76,9 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > As part of a school project, I had to learn how the two stations work, troubleshoot, and modify their code so they can communicate and work together, and design an HMI. The HMI makes it possible to interact with each component on the Station manually, as well as see all the processes live under both stations' automatic operation. The two stations communicate using GET/PUT commands.
 > 
 > Being given a task to understand an unknown machine without any guidance was challenging, but it was exactly what made me feel a deep sense of accomplishment once I figured it out.
-
----
 <div id="robot_arm_project"></div>
+---
+
 ## WINCAPS III (PAC)
 
 **Projects Overview:**
