@@ -43,11 +43,11 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 - **2 Player Whack-a-Mole Game**
 > <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" width="50%">  
 >
+> <div id="bottle_filling"></div>
+>
 > Using only one PLC and two HMIs to create a game where your reflexes are put to the test. Two players compete in tapping as many moles as possible within one minute to define the winner.
 >
 > The art is created in paint and inspired by Pokémon, one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I recently had with my girlfriend.
-
-<div id="bottle_filling"></div>
 
 - **Bottle Filling Prototype**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
@@ -78,12 +78,10 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > Being given a task to understand an unknown machine without any guidance was challenging, but it was exactly what made me feel a deep sense of accomplishment once I figured it out.
 
 ---
-
+<div id="robot_arm_project"></div>
 ## WINCAPS III (PAC)
 
 **Projects Overview:**
-
-<div id="robot_arm_project"></div>
 
 - **Advanced Depalletising and Paletising**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%">  
