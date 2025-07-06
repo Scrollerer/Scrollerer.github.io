@@ -54,7 +54,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > 
 > As a finishing second-semester project, I had to create a PLC program and design an HMI for a company that wanted to incorporate a bottle-filling machine with future scaling in mind. The HMI features a clean interface according to industry standards with cleverly organised menus, submenus, pop-ups, alarms, and user-friendly controls. The PLC program is structured with many function blocks, data blocks, custom data types, and folders, making it fully library-conformant and easily scaled.
 >
-> Without using the <a href="#bottle_filling"> DENSO robotarm to depalletize, scan, move, sort, and palletize the different bottle types, </a> and good communication between the PLCs, this project wouldn't have been completed. It was super interesting and fun to combine and make a simulation of these two machines, making me feel like I am one step closer to the real industry world.
+> Without using the <a href="#robot_arm_project"> DENSO robotarm to depalletize, scan, move, sort, and palletize the different bottle types, </a> and good communication between the PLCs, this project wouldn't have been completed. It was super interesting and fun to combine and make a simulation of these two machines, making me feel like I am one step closer to the real industry world.
 
 - **Box Washer Prototype**
 > <img src="include/Box_Washer_Prototype.gif" alt="Animated GIF loading game" width="90%">  
