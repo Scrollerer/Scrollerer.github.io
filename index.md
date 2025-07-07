@@ -29,16 +29,16 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 - **Flappy Bird Game**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
 > 
-> Beep Beep
+> Having the build the physics, the collisions and the logic of the movements and animations from scratch was super fun part. The game features a few obstacles and is completely library comformant and set up so that it can easily be scaled with even more obstacles, different settings, more levels and possibly more players.
 > 
-> Beep Beep
+> I still remember how much frustrattion and anger this game brought, not only to me, but to millions of people around the wourld back when it got released in 2013. Recently I got curious if I can make a mock up version in TIA, and the answer was "YES!".
 
 - **2-Player Rally Race Game**
 > <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
 > 
-> Beep Beep
+> All the knowledge gained troughout the second semester of my education has been used here - structure, scaling and library conformance were the primary focus to achieve satisfactory outcome in this project. It runs on one PLC and two separate HMIs and it features easy integration of new race tracks, single-player, difficulty modes, custom settings and even more players!
 > 
-> Beep Beep
+> My huge passion for racing video games got me the idea for this game and my big curiousity of "Is it actually possible to do this on a HMI?" inspired me to put a lot of hours into making collisions, physics, controls and graphically pleasing artstyle from scratch, all of which brought this game into reality.
 
 - **2 Player Whack-a-Mole Game**
 > <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" width="50%">  
