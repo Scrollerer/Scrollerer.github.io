@@ -20,25 +20,25 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - **Snake Game**
->  <img src="include/Snake_PLC.gif" alt="Animated GIF Snake Game PLC" width="50%"> 
+>  <img src="include/Snake_PLC.gif" alt="Animated GIF Snake Game HMI" width="50%"> 
 > 
-> In the first semester of my education without any previous experience I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and two PLCs using Get/Put commands. 
+> In the first semester of my education without any previous experience, I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and two PLCs using Get/Put commands. 
 > 
-> I was inspired to recreate this game by nostalgic childhood memories of playing Snake on my Gameboy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely fulfilling in the end.
+> I was inspired to recreate this game by nostalgic childhood memories of playing Snake on my Game Boy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely fulfilling in the end.
 
 - **Flappy Bird Game**
-> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
+> <img src="include/Flappy_Bird.gif" alt="Animated GIF Flappy Bird HMI" width="90%"> 
 > 
-> Having the build the physics, the collisions and the logic of the movements and animations from scratch was super fun part. The game features a few obstacles and is completely library comformant and set up so that it can easily be scaled with even more obstacles, different settings, more levels and possibly more players.
+> Having to build the physics, the collisions, and the logic of the movements and animations from scratch was a super fun part. The game features a few obstacles and is completely library-compliant and set up so that it can easily be scaled with even more obstacles, different settings, more levels, and possibly more players.
 > 
-> I still remember how much frustrattion and anger this game brought, not only to me, but to millions of people around the wourld back when it got released in 2013. Recently I got curious if I can make a mock up version in TIA, and the answer was "YES!".
+> I still remember how much frustration and anger this game brought, not only to me, but to millions of people around the world back when it got released in 2013. Recently, I got curious if I could make a mock-up version in TIA, and the answer was "YES!".
 
 - **2-Player Rally Race Game**
-> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
+> <img src="include/Rally.gif" alt="Animated GIF Rally" width="90%"> 
 > 
-> All the knowledge gained troughout the second semester of my education has been used here - structure, scaling and library conformance were the primary focus to achieve satisfactory outcome in this project. It runs on one PLC and two separate HMIs and it features easy integration of new race tracks, single-player, difficulty modes, custom settings and even more players!
+> All the knowledge gained throughout the second semester of my education has been used here - structure, scaling, and library conformance were the primary focus to achieve a satisfactory outcome in this project. It runs on one PLC and two separate HMIs, and it features easy integration of new race tracks, single-player, difficulty modes, custom settings, and even more players!
 > 
-> My huge passion for racing video games got me the idea for this game and my big curiousity of "Is it actually possible to do this on a HMI?" inspired me to put a lot of hours into making collisions, physics, controls and graphically pleasing artstyle from scratch, all of which brought this game into reality.
+> My huge passion for racing video games got me the idea for this game, and my big curiosity of "Is it actually possible to do this on an HMI?" inspired me to put a lot of hours into making collisions, physics, controls, and a graphically pleasing art style from scratch, all of which brought this game into reality.
 
 - **2 Player Whack-a-Mole Game**
 > <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" width="50%">  
@@ -50,7 +50,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > The art is created in paint and inspired by Pokémon, one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I recently had with my girlfriend.
 
 - **Bottle Filling Prototype**
-> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
+> <img src="include/BottleFillingPrototype.gif" alt="Animated GIF Robotarm and FESTO Station" width="90%"> 
 > 
 > As a finishing second-semester project, I had to create a PLC program and design an HMI for a company that wanted to incorporate a bottle-filling machine with future scaling in mind. The HMI features a clean interface according to industry standards with cleverly organised menus, submenus, pop-ups, alarms, and user-friendly controls. The PLC program is structured with many function blocks, data blocks, custom data types, and folders, making it fully library-conformant and easily scaled.
 >
@@ -64,14 +64,14 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > The freedom to create everything from scratch by letting my imagination and creativity run freely made the completion of this project deeply fulfilling when I saw all parts working together as a whole. 
 
 - **FESTO Stations - Distribution and Sorting**
-> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%"> 
+> <img src="include/Distribution.gif" alt="Animated GIF FESTO Stations" width="90%"> 
 > 
 > As part of a school project, I had to make these two stations communicate well with each other and work together in harmony to make them as efficient and fast as possible. They feature a queue system, alarms, and a simple and user-friendly HMI screen for process overview and manual operation of each component.
 > 
 > Taking a simple project such as this one and making it as efficient as possible was not an easy task, but it was super fun to troubleshoot one step at a time and learn from my mistakes along the way until I finally achieved my goal.
 
 - **FESTO Stations - Sorting and Processing**
-> <img src="include/FESTO.gif" alt="Animated GIF loading game" width="90%">  
+> <img src="include/FESTO.gif" alt="Animated GIF Sorting" width="90%">  
 > 
 > <div id="robot_arm_project"></div
 >
@@ -86,7 +86,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - **Advanced Depalletising and Paletising**
-> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%">  
+> <img src="include/RoboFill.gif" alt="Animated GIF Robotarm program" width="90%">  
 > 
 > As part of the <a href="#bottle_filling"> second-semester projects </a>, I had to program a DENSO robot arm to depalletize a random size bottle, move it in front of an RFID scanner to identify its size, put it into a bottle filling machine until filled, sort the bottle according to its size, and then palletize the different sort of bottles on top of each other to create a pallet. 
 > 
@@ -94,9 +94,9 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **Simple Pick and Place**
-> <img src="include/loadcat.gif" alt="Animated GIF No Preview Present" width="10%">  
+> <img src="include/PickPlace.gif" alt="Animated GIF Robotarm Program 2" width="90%">  
 > 
-> The robot arm picks up two blocks and puts them on top of eachother and then puts them back. It simulates palletizing and depalletizing items in the automation industry.
+> The robot arm picks up two blocks and puts them on top of each other, and then puts them back. It simulates palletizing and depalletizing items in the automation industry.
 > 
 > Getting into PAC Script for the first time ever, I created this simple program to learn the basics of the language and be able to program the robot arm most efficiently.
 
