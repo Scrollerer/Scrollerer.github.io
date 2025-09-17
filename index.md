@@ -27,14 +27,14 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > I was inspired to recreate this game by nostalgic childhood memories of playing Snake on my Game Boy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely fulfilling in the end.
 
 - **Flappy Bird Game**
-> <img src="include/Flappy_Bird.gif" alt="Animated GIF Flappy Bird HMI" width="90%"> 
+> <img src="include/Flappy_Bird.gif" alt="Animated GIF Flappy Bird HMI" width="50%"> 
 > 
 > Having to build the physics, the collisions, and the logic of the movements and animations from scratch was a super fun part. The game features a few obstacles and is completely library-compliant and set up so that it can easily be scaled with even more obstacles, different settings, more levels, and possibly more players.
 > 
 > I still remember how much frustration and anger this game brought, not only to me, but to millions of people around the world back when it got released in 2013. Recently, I got curious if I could make a mock-up version in TIA, and the answer was "YES!".
 
 - **2-Player Rally Race Game**
-> <img src="include/Rally.gif" alt="Animated GIF Rally" width="90%"> 
+> <img src="include/Rally.gif" alt="Animated GIF Rally" width="50%"> 
 > 
 > All the knowledge gained throughout the second semester of my education has been used here - structure, scaling, and library conformance were the primary focus to achieve a satisfactory outcome in this project. It runs on one PLC and two separate HMIs, and it features easy integration of new race tracks, single-player, difficulty modes, custom settings, and even more players!
 > 
@@ -50,7 +50,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 > The art is created in paint and inspired by Pokémon, one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I recently had with my girlfriend.
 
 - **Bottle Filling Prototype**
-> <img src="include/BottleFillingPrototype.gif" alt="Animated GIF Robotarm and FESTO Station" width="90%"> 
+> <img src="include/BottleFillingPrototype.gif" alt="Animated GIF Robotarm and FESTO Station" width="50%"> 
 > 
 > As a finishing second-semester project, I had to create a PLC program and design an HMI for a company that wanted to incorporate a bottle-filling machine with future scaling in mind. The HMI features a clean interface according to industry standards with cleverly organised menus, submenus, pop-ups, alarms, and user-friendly controls. The PLC program is structured with many function blocks, data blocks, custom data types, and folders, making it fully library-conformant and easily scaled.
 >
@@ -86,7 +86,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 **Projects Overview:**
 
 - **Advanced Depalletising and Paletising**
-> <img src="include/RoboFill.gif" alt="Animated GIF Robotarm program" width="90%">  
+> <img src="include/RoboFill.gif" alt="Animated GIF Robotarm program" width="60%">  
 > 
 > As part of the <a href="#bottle_filling"> second-semester projects </a>, I had to program a DENSO robot arm to depalletize a random size bottle, move it in front of an RFID scanner to identify its size, put it into a bottle filling machine until filled, sort the bottle according to its size, and then palletize the different sort of bottles on top of each other to create a pallet. 
 > 
@@ -94,7 +94,7 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 
 
 - **Simple Pick and Place**
-> <img src="include/PickPlace.gif" alt="Animated GIF Robotarm Program 2" width="90%">  
+> <img src="include/PickPlace.gif" alt="Animated GIF Robotarm Program 2" width="50%">  
 > 
 > The robot arm picks up two blocks and puts them on top of each other, and then puts them back. It simulates palletizing and depalletizing items in the automation industry.
 > 
