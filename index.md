@@ -10,7 +10,7 @@
 ## Description 
 This is an overview of some of my programming projects since 2015.  
 
-All of the projects have been done with immense passion, countless hours of debugging, and letting my creativity run free to achieve success, perfection, and complete fulfillment—satisfaction and even tears of happiness.  
+All of the projects have been done with immense passion, countless hours of debugging, and letting my creativity run free to achieve success, perfection, complete fulfillment, satisfaction, and even tears of happiness.  
 
 By gamifying my projects, I dig deep into the logic behind each dynamic to understand, learn, and keep my love for programming alive, making learning new languages more exciting and every success incredibly rewarding and fulfilling.
 
@@ -22,30 +22,30 @@ By gamifying my projects, I dig deep into the logic behind each dynamic to under
 - **Snake Game**
 >  <img src="include/Snake_PLC.gif" alt="Animated GIF Snake Game HMI" width="50%"> 
 > 
-> In the first semester of my education without any previous experience, I tested the limits of the 1215C CPU and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and two PLCs using Get/Put commands. 
+> In the first semester of my education, without any previous experience, I tested the limits of the Siemens 1215C PLC and KTP700 Basic HMI using Ladder logic and recreated the classical Snake game. It features difficulty modes, levels, and multiplayer mode between two HMIs and two PLCs using Get/Put commands. 
 > 
 > I was inspired to recreate this game by nostalgic childhood memories of playing Snake on my Game Boy. The fact that there were no tutorials/videos/documentation on the internet about someone achieving this in TIA using Ladder Logic made this project extra challenging, but also extremely fulfilling in the end.
 
 - **Flappy Bird Game**
 > <img src="include/Flappy_Bird.gif" alt="Animated GIF Flappy Bird HMI" width="50%"> 
 > 
-> Having to build the physics, the collisions, and the logic of the movements and animations from scratch was a super fun part. The game features a few obstacles and is completely library-compliant and set up so that it can easily be scaled with even more obstacles, different settings, more levels, and possibly more players.
+> Having to build the physics, the collisions, and the logic of the movements and animations from scratch was super fun. The game features a few obstacles and is completely library-conformant, set up to easily scale with additional obstacles, different settings, more levels, and possibly more players.
 > 
-> I still remember how much frustration and anger this game brought, not only to me, but to millions of people around the world back when it got released in 2013. Recently, I got curious if I could make a mock-up version in TIA, and the answer was "YES!".
+> I still remember how much frustration and anger this game brought, not only to me, but to millions of people around the world back when it got released in 2013. Recently, I got curious if I could make a mock-up version in TIA Portal V19, and the answer was "YES!".
 
 - **2-Player Rally Race Game**
 > <img src="include/Rally.gif" alt="Animated GIF Rally" width="50%"> 
 > 
-> All the knowledge gained throughout the second semester of my education has been used here - structure, scaling, and library conformance were the primary focus to achieve a satisfactory outcome in this project. It runs on one PLC and two separate HMIs, and it features easy integration of new race tracks, single-player, difficulty modes, custom settings, and even more players!
+> All the knowledge gained throughout the second semester of my education has been used here - structure, scaling, and library conformance were the primary focus to achieve a satisfactory outcome in this project. It runs on one Siemens 1215C PLC and two separate KTP700 HMIs, and it features easy integration of new race tracks, single-player, difficulty modes, custom settings, and even more players!
 > 
-> My huge passion for racing video games got me the idea for this game, and my big curiosity of "Is it actually possible to do this on an HMI?" inspired me to put a lot of hours into making collisions, physics, controls, and a graphically pleasing art style from scratch, all of which brought this game into reality.
+> My huge passion for racing video games got me the idea for this game, and my big curiosity about "Is it actually possible to do this on an HMI?" inspired me to put a lot of hours into making collisions, physics, controls, and a graphically pleasing art style from scratch, all of which brought this game into reality.
 
 - **2 Player Whack-a-Mole Game**
 > <img src="include/whack-a-mole.gif" alt="Animated GIF Whack-a-mole" width="50%">  
 >
 > <div id="bottle_filling"></div>
 >
-> Using only one PLC and two HMIs to create a game where your reflexes are put to the test. Two players compete in tapping as many moles as possible within one minute to define the winner.
+> Using only one Siemens 1215C PLC and two KTP700 HMIs to create a game where your reflexes are put to the test. Two players compete in tapping as many moles as possible within one minute to define the winner.
 >
 > The art is created in paint and inspired by Pokémon, one of my favorite animations I used to watch as a child. The inspiration for creating the game came from playing a real Whack-a-Mole on a date I recently had with my girlfriend.
 
